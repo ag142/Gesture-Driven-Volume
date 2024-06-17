@@ -42,9 +42,6 @@ This project demonstrates a system for controlling audio volume using hand gestu
    - Perform gestures (e.g., swipe up/down) to adjust the volume.
    - Check the real-time volume feedback on the UI.
 
-## Demo
-
-![Hand Gesture Volume Control Demo](https://imgur.com/SQjnBiV)
 
 
 ## Acknowledgments
