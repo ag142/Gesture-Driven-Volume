@@ -43,7 +43,8 @@ This project demonstrates a system for controlling audio volume using hand gestu
    - Check the real-time volume feedback on the UI.
 
 ## Demo
-![Vol-hand](https://github.com/ag142/Gesture-Driven-Volume/assets/116592046/ad2dd978-fcca-4469-9594-e554005f85d0)
+![Vol-hand2cropped](https://github.com/ag142/Gesture-Driven-Volume/assets/116592046/41b66b83-0891-4b66-b0e7-b1bd8102ce23)
+
 
 
 ## Acknowledgments
