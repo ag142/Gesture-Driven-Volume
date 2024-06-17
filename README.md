@@ -44,7 +44,7 @@ This project demonstrates a system for controlling audio volume using hand gestu
 
 ## Demo
 
-![Hand Gesture Volume Control Demo]("C:\Users\91831\Desktop\Portfolio-Aelli\assets\images\Vol-hand.png")
+![Hand Gesture Volume Control Demo](https://imgur.com/SQjnBiV)
 
 
 ## Acknowledgments
