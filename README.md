@@ -39,7 +39,7 @@ This project demonstrates a system for controlling audio volume using hand gestu
 
 4. **Usage:**
    - Position your hand in front of the webcam.
-   - Perform gestures (e.g., swipe up/down) to adjust the volume.
+   - Perform gestures, such as moving your thumb and first finger together, to adjust the volume.
    - Check the real-time volume feedback on the UI.
 
 ## Demo
