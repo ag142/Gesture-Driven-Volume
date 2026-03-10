@@ -1,5 +1,4 @@
 Certainly! Here's a template for the README file for your GitHub repository focused on volume control by hand gesture:
-Hand gesture used to control volume
 ---
 
 # Hand Gesture Volume Control
