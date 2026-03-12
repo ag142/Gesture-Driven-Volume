@@ -1,4 +1,4 @@
-Certainly! Here's a template for the README file for your GitHub repository focused on volume control by hand gesture:
+Certainly! Here's a template for the README file for your GitHub repository focused on volume control by hand gesture: chnages
 ---
 
 # Hand Gesture Volume Control
